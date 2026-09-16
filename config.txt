@@ -1,1 +1,1 @@
-config line changed in master branch
+config line resolved manually
